@@ -3,6 +3,14 @@
 
 项目用于记录在LeetCode中练习的算法代码。
 
+# 算法目录
+
+---
+
+## 数组
+
+* [存在连续三个奇数数组](https://github.com/xulindev/LeetCode/blob/main/src/ThreeConsecutiveOdds.java)
+
 # [License](https://github.com/xulindev/LeetCode/blob/main/LICENSE)
 
 ```
