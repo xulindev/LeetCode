@@ -10,6 +10,7 @@
 ## 数组
 
 * [存在连续三个奇数数组](https://github.com/xulindev/LeetCode/blob/main/src/ThreeConsecutiveOdds.java)
+* [统计好三元组](https://github.com/xulindev/LeetCode/blob/main/src/CountGoodTriplets.java)
 
 # [License](https://github.com/xulindev/LeetCode/blob/main/LICENSE)
 
