@@ -9,7 +9,9 @@ public class ThreeConsecutiveOdds {
 
     /**
      * 题目：1550.存在连续三个奇数数组
+     * <br/>
      * 地址：https://leetcode.cn/problems/three-consecutive-odds/
+     *
      * @param arr 整数数组
      * @return 请你判断数组中是否存在连续三个元素都是奇数的情况：如果存在，请返回 true ；否则，返回 false 。
      */

@@ -9,8 +9,9 @@ public class CountGoodTriplets {
 
     /**
      * 题目：1534.统计好三元组
+     * <br/>
      * 地址：https://leetcode.cn/problems/count-good-triplets/description/
-     * ------
+     * <p/>
      * 给你一个整数数组 arr ，以及 a、b 、c 三个整数。请你统计其中好三元组的数量。
      * 如果三元组 (arr[i], arr[j], arr[k]) 满足下列全部条件，则认为它是一个 好三元组 。
      * 0 <= i < j < k < arr.length
@@ -18,10 +19,11 @@ public class CountGoodTriplets {
      * |arr[j] - arr[k]| <= b
      * |arr[i] - arr[k]| <= c
      * 其中 |x| 表示 x 的绝对值。
+     *
      * @param arr 整数数组
-     * @param a 整数数值
-     * @param b 整数数值
-     * @param c 整数数值
+     * @param a   整数数值
+     * @param b   整数数值
+     * @param c   整数数值
      * @return 好三元组的数量
      */
     private static int compute(int[] arr, int a, int b, int c) {

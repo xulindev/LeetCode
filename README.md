@@ -12,6 +12,7 @@
 * [存在连续三个奇数数组](https://github.com/xulindev/LeetCode/blob/main/src/ThreeConsecutiveOdds.java)
 * [统计好三元组](https://github.com/xulindev/LeetCode/blob/main/src/CountGoodTriplets.java)
 * [转置矩阵](https://github.com/xulindev/LeetCode/blob/main/src/Transpose.java)
+* [矩阵对角线元素的和](https://github.com/xulindev/LeetCode/blob/main/src/DiagonalSum.java)
 
 # [License](https://github.com/xulindev/LeetCode/blob/main/LICENSE)
 
